@@ -1,0 +1,6 @@
+br\edu\ifnmg\poo\projeto_com_strategy\IPI.class
+br\edu\ifnmg\poo\projeto_com_strategy\CalculadoraImposto.class
+br\edu\ifnmg\poo\projeto_com_strategy\Imposto.class
+br\edu\ifnmg\poo\projeto_com_strategy\Program.class
+br\edu\ifnmg\poo\projeto_com_strategy\ICMS.class
+br\edu\ifnmg\poo\projeto_com_strategy\OUTRO.class
